@@ -1,0 +1,8 @@
+E:\Assisted\Phase Control Flow\Phase Control Flow\bin\Debug\Phase Control Flow.exe.config
+E:\Assisted\Phase Control Flow\Phase Control Flow\bin\Debug\Phase Control Flow.exe
+E:\Assisted\Phase Control Flow\Phase Control Flow\bin\Debug\Phase Control Flow.pdb
+E:\Assisted\Phase Control Flow\Phase Control Flow\obj\Debug\Phase Control Flow.csproj.AssemblyReference.cache
+E:\Assisted\Phase Control Flow\Phase Control Flow\obj\Debug\Phase Control Flow.csproj.SuggestedBindingRedirects.cache
+E:\Assisted\Phase Control Flow\Phase Control Flow\obj\Debug\Phase Control Flow.csproj.CoreCompileInputs.cache
+E:\Assisted\Phase Control Flow\Phase Control Flow\obj\Debug\Phase Control Flow.exe
+E:\Assisted\Phase Control Flow\Phase Control Flow\obj\Debug\Phase Control Flow.pdb
